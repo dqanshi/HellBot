@@ -68,7 +68,7 @@ Hellbot can be deployed on any Linux VPS and terminal.
    
 3. **Clone Github repository:**
    ```bash
-   git clone https://github.com/The-HellBot/Plugins HellBot && cd HellBot
+   git clone https://github.com/dqanshi/Plugins HellBot && cd HellBot
    ```
 
 4. **Edit Config Variables:**
